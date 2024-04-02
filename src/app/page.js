@@ -1,8 +1,8 @@
 import Chat from "./chat";
 
 export const metadata = {
-  title: "GPT Video demo",
-  description: "An experiment to reproduce the gemini staged video for real.",
+  title: "Recognize GPT",
+  description: "Gemini demo using GPT-vision.",
 };
 
 export default function Page() {
